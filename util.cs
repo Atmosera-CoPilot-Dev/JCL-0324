@@ -16,7 +16,7 @@ namespace DemoApp
         {
             string[] messages = new string[]
             {
-                "Hello, World!",
+                "Hello JCL!",
                 "Welcome to the world of C#!",
                 "C# is a powerful language!",
                 "C# is a great language for beginners!",
