@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JohnsonControls", "JohnsonControls.csproj", "{FEC6085C-6ECB-4682-A438-5345FD58D01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC6085C-6ECB-4682-A438-5345FD58D01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC6085C-6ECB-4682-A438-5345FD58D01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC6085C-6ECB-4682-A438-5345FD58D01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC6085C-6ECB-4682-A438-5345FD58D01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90C132F-5082-46F9-8E94-19B5AE40D86B}
+	EndGlobalSection
+EndGlobal
