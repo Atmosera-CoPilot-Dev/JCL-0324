@@ -2,7 +2,7 @@
 This document outlines a course on learning c# programming language. The course is designed for beginners and is intended to be an introductory learning experience. 
 -->
 
-# C# Programming Language
+# C# Programming Language with CoPilot for JCL
 
 ## Introduction
 
